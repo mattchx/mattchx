@@ -1,12 +1,10 @@
-### Hi there 
-
 <!--
 **mattchx/mattchx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Welcome to Matthew Henderson's GitHub Page!👋
+## Welcome to Matthew Henderson's GitHub Page!👋
 
-## Here's a little about me:
+# Here's a little about me:
 - 🔭 I’m currently working on a Reddit clone
 - 🌱 I’m currently learning Postgresql
 - 👯 I’m looking to collaborate on a Developer Podcast
