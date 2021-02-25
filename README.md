@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with NextJS
 - 💬 Ask me about React or Material UI
 - 📫 How to reach me: mattcharlesh@gmail.com
-- ⚡ Fun fact: I'm a self-taught developer and can speak two languages.
+- ⚡ Fun fact: I can speak Mandarin Chinese & English
 
