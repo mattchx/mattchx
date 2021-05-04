@@ -27,6 +27,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### 💻 Projects I've worked on
+- 📆 [Calend-app](https://github.com/hatchways/team-yugioh): Online Appointment Booking Software - _React, Node.js, MongoDB, AWS, SendGrid, & Stripe_
+- 🧃 [Soda Vending Machine](https://github.com/mattchx/vending-machine): Machine takes in coins and return drinks - _React & Chakra UI_
+- 📝 [FS-note-app](https://github.com/mattchx/FS-todo-app): Login, create, edit, and complete notes with - _PostgreSQL, Express, React, JWT, Toastify, Node.js_
+
+
 ### 😸 GitHub stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mattchx&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattchx&hide=TeX&layout=compact)
