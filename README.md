@@ -31,7 +31,8 @@
 - 📆 [Calend-app](https://github.com/hatchways/team-yugioh): Online Appointment Booking Software - _React, Node.js, MongoDB, AWS, SendGrid, & Stripe_
 - 🧃 [Soda Vending Machine](https://github.com/mattchx/vending-machine): Machine takes in coins and return drinks - _React & Chakra UI_
 - 📝 [FS-note-app](https://github.com/mattchx/FS-todo-app): Login, create, edit, and complete notes with - _PostgreSQL, Express, React, JWT, Toastify, Node.js_
-
+- 💰[My Money App](https://github.com/mattchx/my-money-app): Finance Tracker - _React and Firebase Auth_
+- 🎮 [Game Review App](https://github.com/mattchx/review-app): Make and view reviews for you fav games - _React Native_
 
 ### 😸 GitHub stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mattchx&count_private=true&show_icons=true&include_all_commits=true)
