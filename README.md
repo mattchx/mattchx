@@ -35,9 +35,8 @@
 - 🎮 [Game Review App](https://github.com/mattchx/review-app): Make and view reviews for you fav games - _React Native_
 
 ### 😸 GitHub stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mattchx&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattchx&hide=TeX&layout=compact)
 
 #### 💬 Connect with me
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mattchx.com/) [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mattchx/) [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />](mailto:mattcharlesh@gmail.com) 
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mattchx.github.io/) [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mattchx/) [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />](mailto:mattcharlesh@gmail.com) 
